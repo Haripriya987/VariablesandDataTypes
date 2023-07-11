@@ -18,11 +18,11 @@ Here are Predefined Datatypes in java.
   Type    size(in bytes)
   byte      1
   short     2
-   int        4
+   int      4
    long     8
-   float     4
-  double  8
-  char       2
+   float    4
+  double    8
+  char      2
   boolean (not mentioned) 
 boolean only stores two values either true or false.Default value is false.
 byte,short,int,long all of them store the integer values only but they are vary in size.
